@@ -1,8 +1,7 @@
 {
-  "name": "rescript-nextjs-template",
+  "name": "functional_localization_app",
   "namespace": false,
   "reason": { "react-jsx": 3 },
-  "refmt": 3,
   "bs-dependencies": ["@rescript/react"],
   "ppx-flags": [],
   "sources": [

@@ -1,6 +1,8 @@
-# ReScript / NextJS Starter
+# Functional localization app
 
-This is a NextJS based template with following setup:
+This is a NextJS based localization app powered by ReScript
+
+## Setup
 
 - Full Tailwind v2 config & basic css scaffold (+ production setup w/ purge-css & cssnano)
 - [ReScript](https://rescript-lang.org) + React
